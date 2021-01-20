@@ -1,0 +1,28 @@
+.darkRoot {
+    display: flex;
+    flex-direction: column;
+    background-color: #2B3544;
+    color: white;
+    border-radius: 14px;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+.whiteRoot{
+    background-color: #FFFFFF;
+    color: black;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+.subtitle{
+    padding-right: 38px;
+    display: flex;
+    font-size: 10px;
+    justify-content: flex-end;
+}
+

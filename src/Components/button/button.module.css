@@ -1,0 +1,42 @@
+.button {
+    width: 128px;
+    height: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Nunito, sans-serif;
+}
+
+.buttonWhite {
+    color: #08162B ;
+}
+
+.buttonText{
+    color: white;
+}
+
+.buttonTextWhite{
+    color: #08162B;
+}
+
+.buttonText:hover {
+    transition-duration: 200ms;
+    cursor: pointer;
+    border-bottom: white solid 1px;
+}
+
+.buttonWhiteText:hover {
+    transition-duration: 200ms;
+    cursor: pointer;
+    border-bottom: #08162B solid 1px;
+}
+
+.buttonRoseText {
+    color: white;
+}
+
+.buttonRoseText:hover {
+    transition-duration: 200ms;
+    cursor: pointer;
+    border-bottom: white solid 1px;
+}
